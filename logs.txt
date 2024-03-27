@@ -1,0 +1,35 @@
+commit f5f3cb244f53867fed0a0ee0865fbc6d9b14c757 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Daniel Pazarkoski <daniel.pazarkoski@students.finki.ukim.mk>
+Date:   Wed Mar 27 20:25:59 2024 +0100
+
+    Call method makeBigStringForm in main class
+
+commit 4fc7e2eaf53666d60498bb54c220b6d6a1876e6b
+Author: Daniel Pazarkoski <daniel.pazarkoski@students.finki.ukim.mk>
+Date:   Wed Mar 27 20:23:48 2024 +0100
+
+    Fix wrong condition in makeBigStringForm
+
+commit f375d3b2383c3db7c7f4d548f2a4de332ea96024 (origin/bug1, bug1)
+Author: Daniel Pazarkoski <daniel.pazarkoski@students.finki.ukim.mk>
+Date:   Wed Mar 27 20:24:55 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 3555487cbe32430ad958dbde42e54ca8f8affee2
+Author: Daniel Pazarkoski <daniel.pazarkoski@students.finki.ukim.mk>
+Date:   Wed Mar 27 20:22:50 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b9c00f3a101b8f00772ea7b55170d50155852a64
+Author: Daniel Pazarkoski <daniel.pazarkoski@students.finki.ukim.mk>
+Date:   Wed Mar 27 20:21:51 2024 +0100
+
+    Add starter code
+
+commit b96fb0f102de67a1122aeab851958efdfe5410a8
+Author: Daniel Pazarkoski <daniel.pazarkoski@students.finki.ukim.mk>
+Date:   Wed Mar 27 20:20:54 2024 +0100
+
+    Initial commit
